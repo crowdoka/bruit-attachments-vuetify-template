@@ -1,0 +1,8 @@
+
+1:51:30 PM	error	{"stack":"Error: Failed to set the 'adoptedStyleSheets' property on 'ShadowRoot': Sharing constructed stylesheets in multiple documents is not allowed\n at addStyle (webpack-internal:///./nodemodules/@bruit/component/dist/esm-es5/core-60c61d30.js:395	
+1:51:30 PM	error	{"stack":"Error: Failed to set the 'adoptedStyleSheets' property on 'ShadowRoot': Sharing constructed stylesheets in multiple documents is not allowed\n at addStyle (webpack-internal:///./nodemodules/@bruit/component/dist/esm-es5/core-60c61d30.js:395	
+1:51:21 PM	log	{"id":"agreement","type":"checkbox","label":"I agree to send technical information in addition to my answers","value":true}	
+1:51:21 PM	log	{"label":"First question","type":"text","required":true,"id":"title"}	
+1:51:21 PM	click	//div[@id="app"]/div/footer[0]/bruit-io[0]/#document-fragment/a/svg/path 
+	
+1:51:14 PM	url	http://local:8080/#/	
